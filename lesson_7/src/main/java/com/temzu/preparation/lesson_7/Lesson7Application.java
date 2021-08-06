@@ -1,4 +1,4 @@
-package com.preparation.temzu.lesson_7;
+package com.temzu.preparation.lesson_7;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.preparation.temzu.lesson_7;
+package com.temzu.preparation.lesson_7;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
